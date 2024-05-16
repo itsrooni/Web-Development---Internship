@@ -297,6 +297,8 @@ button:hover{
     font-weight: bold;
     opacity: 50%;
 }
+
+
 @media only screen and (max-width: 500px){
     .main-img{
         display: none;
